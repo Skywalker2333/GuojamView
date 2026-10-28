@@ -2,6 +2,8 @@
 
 Windows 11 透明副屏监控。包含透明仪表盘、系统资源采集、QQ 音乐控制与同步歌词、天气显示和设置窗口。
 
+![GuojamView 预览](preview.jpg)
+
 ## 运行
 
 需要 Windows 11 x64 和 Python 3.13：
